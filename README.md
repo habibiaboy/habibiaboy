@@ -6,7 +6,6 @@
 <br/>
 
 - 🌱 I’m currently learning about vue.js and robotframework
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with stackoverflow
 - 💬 Ask me about CSS
 - 😄 Pronouns: He/His
