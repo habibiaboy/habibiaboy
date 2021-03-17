@@ -2,7 +2,7 @@
 <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
 
-## Hola, I'm [Habibiaboy!](https://habibiaboy.my.id/) 👋
+## Hola, I'm Habibiaboy
 
 <br/>
 
@@ -23,6 +23,10 @@
 </p>
 
 </details>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+</div>  
 
 
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
