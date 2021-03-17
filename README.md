@@ -13,6 +13,6 @@
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Have a nice day!
 
 </div>
