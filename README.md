@@ -11,13 +11,15 @@
 
 
 **Languages and Tools:**  
-<a href="https://github.com/habibiaboy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibiaboy&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/habibiaboy">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=habibiaboy&show_icons=true&theme=light&line_height=27" alt="Habibiaboy github stats"/>
-</a>
-
+<div align="center">
+  <a href="https://github.com/habibiaboy">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibiaboy&theme=light&hide_langs_below=1" />
+  </a>
+  <br/>
+  <a href="https://github.com/habibiaboy">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=habibiaboy&show_icons=true&theme=light&line_height=27" alt="Habibiaboy github stats"/>
+  </a>
+</div>
 
 <div align="center">
 
