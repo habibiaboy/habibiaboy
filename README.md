@@ -10,8 +10,6 @@
 - ⚡ Fun fact: when I learned about SASS / SCSS, it was crazy because it made it easier for the frontend to create thousands of lines per line of css easily
 
 
-**Languages and Tools:** 
-
 <details>
 
 <summary>My GitHub Stats</summary>
