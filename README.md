@@ -10,10 +10,9 @@
 - ⚡ Fun fact: when I learned about SASS / SCSS, it was crazy because it made it easier for the frontend to create thousands of lines per line of css easily
 
 
-<details open>
-
-<summary>My GitHub Stats</summary>
-
+<details>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+<br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=habibiaboy&show_icons=true&theme=bear&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=habibiaboy&theme=bear">
