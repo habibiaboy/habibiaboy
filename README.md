@@ -14,10 +14,14 @@
 
 <summary>My GitHub Stats</summary>
 
-![Habibiaboy github stats](https://github-readme-stats.vercel.app/api?username=habibiaboy&theme=algolia&show_icons=true)
 
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=habibiaboy&show_icons=true&theme=bear&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=habibiaboy&hide=css,java,html&theme=bear">
+</p>
 
 </details>
+
 
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
