@@ -14,7 +14,8 @@
 
 <summary>My GitHub Stats</summary>
 
-![Habibiaboy github stats](https://github-readme-stats.vercel.app/api?username=habibiaboy&theme=vue&show_icons=true)
+![Habibiaboy github stats](https://github-readme-stats.vercel.app/api?username=habibiaboy&theme=algolia&show_icons=true)
+
 
 </details>
 
