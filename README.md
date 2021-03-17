@@ -18,16 +18,10 @@
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=habibiaboy&show_icons=true&theme=bear&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=habibiaboy&theme=bear">
+  <img src = "https://github-readme-stats.vercel.app/api?username=habibiaboy&show_icons=true&theme=vue&line_height=27">
 </p>
 
 </details>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=habibiaboy&&style=flat-square" align="center" />
-</div>  
-
 
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
