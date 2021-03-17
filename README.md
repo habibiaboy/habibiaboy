@@ -10,10 +10,8 @@
 - 💬 Ask me about CSS
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: when I learned about SASS / SCSS, it was crazy because it made it easier for the frontend to create thousands of lines per line of css easily
-
-<details open>
- <img align='center' src='https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif' width='200"'>
-</details>
+</br>
+<img align='center' src='https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif' width='200"'>
 
 <details>
  <summary> 😇 <b>My Github Stats</b>: </summary>
