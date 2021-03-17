@@ -1,8 +1,6 @@
 ## Hola, I'm [Habibiaboy!](https://habibiaboy.my.id/) 👋
 
-<!--
-**habibiaboy/habibiaboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<br/>
 
 - 🌱 I’m currently learning about vue.js and robotframework
 - 👯 I’m looking to collaborate on ...
