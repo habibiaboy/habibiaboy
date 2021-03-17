@@ -11,18 +11,16 @@
 
 
 **Languages and Tools:** 
+
+<details>
+
+<summary>My GitHub Stats</summary>
+
+![Habibiaboy github stats](https://github-readme-stats.vercel.app/api?username=habibiaboy&theme=vue&show_icons=true)
+
+</details>
+
 <div align="center">
-  <a href="https://github.com/habibiaboy">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibiaboy&theme=light&hide_langs_below=1" />
-  </a>
-  <br/>
-  <a href="https://github.com/habibiaboy">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=habibiaboy&show_icons=true&theme=light&line_height=27" alt="Habibiaboy github stats"/>
-  </a>
-
-
-
-
 
 ### Have a nice day!❤️
 
