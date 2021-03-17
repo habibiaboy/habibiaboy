@@ -19,6 +19,8 @@
 
 </details>
 
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+
 <div align="center">
 
 ### Have a nice day!❤️
