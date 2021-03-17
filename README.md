@@ -21,8 +21,3 @@
 
 <img align='center' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
-<div align="center">
-
-### Have a nice day!❤️
-
-</div>
